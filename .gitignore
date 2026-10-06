@@ -1,0 +1,5 @@
+# 忽略除主脚本外的所有文件
+*
+!.gitignore
+!README.md
+!wnacg-smartfix-v3.user.js
